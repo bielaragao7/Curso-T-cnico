@@ -1,0 +1,71 @@
+Arquivo html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel=" stylesheet" type="text/css" href="benetti.css"/>
+        <title>homenagem a mulheres</title>
+</head>
+<body>
+    <h1>COISAS QUE EU AMO</h1>
+    <ol >
+        <li> Instituto Federal de São Paulo
+            <li>Meu mundo é minha mãe
+         <li> eu amo meu papai
+        <li> gosto de loiras
+    
+                
+            </ol>
+            
+            
+          <h2>ranking das mulheres</h2>
+            <ol>
+          <li>  <dd> eu amo vcs</dd>
+<li> <dd>oi amor</dd>
+<li><dd>eu amo todas as mulheres</dd>
+<li><dd> mulheres merecem o mundo</dd>
+</ol>
+
+<img src="flor.jpg" class="img"> 
+
+
+<a href = "https://playboard.co/en/search?q=GRAU%20DE%20MOTO%20ALB%20GAMER/" target ="_blank"> melhores receitas de bolo </a>
+        </body>
+</html>
+
+
+Arquivo css
+h1{
+    font-size: 40px;
+    color:greenyellow;
+    font-style: arial;
+    background-color: black;
+}
+    ol{
+    font-size: 20px;
+    color: greenyellow;
+    font-style: italic;
+    background-color: black;
+    }
+    h2{
+        font-size: 30px;
+        color:greenyellow;
+        font-style: italic;
+        background-color: black;
+        
+    }
+    body{
+        background-color: black;
+    }
+
+    .img{
+        position: absolute;
+        margin-left: 20cm;
+        margin-top: -5cm;
+    }
+   
+    
+
+    
